@@ -76,7 +76,7 @@ h1, h2, p {
 
 
 .main{
-  background-image: url("/imagen/background.JPG");
+  background-image: url("/imagen/background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   position: static; 
