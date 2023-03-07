@@ -118,7 +118,7 @@ h1, h2, p {
 .aside h1{
   color: white;
   text-align: center;
-  margin-top: 155px;
+  margin-top: 110px;
   margin-bottom: 10px;
   padding: 15px;
   font-size: 40px;
@@ -134,7 +134,7 @@ h1, h2, p {
   font-family: 'Josefin Sans', sans-serif;
 }
 .read-more-btn {
-  margin-top: 20px;
+  margin-top: 5px;
   background-color: #af7c4c;
   border: none;
   border-radius: 40px;
